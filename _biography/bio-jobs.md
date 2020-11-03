@@ -11,8 +11,12 @@ O Steven Paul Jobs (1955-2011) έμεινε γνωστός στην ιστορί
 Μετά την αποχώρηση του, ο Steve ίδρυσε την εταιρία NeXT και εξαγόρασε την εταιρία Pixar, με τη δεύτερη να γίνεται μια άκρως επιτυχημένη εταιρία στον χώρο των κινουμένων σχεδίων βασισμένων σε γραφικά υπολογιστών. Το 1997 η Apple αποφάσισε να κινηθεί στην εξαγορά της NeXT [2] και έτσι έφερε πίσω τον Steve στην εταιρία που τόσο είχε ανάγκη το όραμα και την διορατικότητα του. Ένα από τα άμεσα αποτελέσματα της επιστροφής του Steve στο τιμόνι της εταιρίας ήταν ο υπολογιστής Apple iMac G3 το 1998 [2] όπου η ριζοσπαστική σχεδίαση του δεν θύμιζε σε τίποτα ηλεκτρονική υπολογιστή της εποχής. Με τον Steve Jobs στη θέση του CEO πλέον, η εταιρία είχε περάσει σε μια νέα εποχή. Την εποχή του κινητού υπολογισμού, όπου κυκλοφόρησε συσκευές και υπηρεσίες εκμεταλλευόμενη την άνθηση του ίντερνετ και της ψηφιακής μουσικής, όπως το iPod το 2001 και το iTunes το 2003. Μια από τις μεγαλύτερες επιτυχίες της εταιρίας ως σήμερα θεωρείται το iPhone, η πρώτη συσκευή κινητού τηλεφώνου της εταιρίας, όπου κυκλοφόρησε το 2007 και το iPad η πρώτη ταμπλέτα που κυκλοφόρησε το 2010. Μάλιστα στις δυο τελευταίες συσκευές ο Steve είχε αναμειχθεί έντονα στη σχεδίαση τους. Με τη δεύτερη να αποτελεί την υλοποίηση του οράματος του από το 1983 όταν και ανέφερε για πρώτη φορά την πρόθεση του για τη δημιουργία της εν λόγω συσκευής. 
 
 
-[1] Brennan, Chrisann (2013). The Bite in the Apple: A Memoir of My Life with Steve Jobs. 
+[1] Brennan, Chrisann (2013). The Bite in the Apple: A Memoir of My Life with Steve Jobs
+
 [2] Walter Isaacson (2011). Steve Jobs: A Biography by Walter Isaacson
+
 [3] Young, Jeffrey S. (1987). Steve Jobs: The Journey Is the Reward. Amazon Digital Services
-[4] Blumenthal, Karen (2012). Steve Jobs The Man Who Thought Different. A&C Black. 
+
+[4] Blumenthal, Karen (2012). Steve Jobs The Man Who Thought Different. A&C Black
+
 [5] Schlenter Brent (2016). Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader
