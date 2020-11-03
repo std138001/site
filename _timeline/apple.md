@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Υπολογιστές, φορητές συσκευές και συσκευές διάδρασης της Apple 
-image_url: /images/apple-logo.jpg
+image_url: /images/apple-logo.png
 caption: Δοκιμαστικό κείμενο.
 events:
   - apple-i-computer
