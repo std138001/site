@@ -19,6 +19,6 @@ gallery:
 
 ---
 
-{% include extras/cs-edu-app.md %}
+{% include_relative cs-edu-app.md %}
 
 {% include gallery %}
