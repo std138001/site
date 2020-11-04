@@ -11,6 +11,7 @@ events:
   - apple-newton
   - ipod_1g
   - iphone-jobs
+  - ios
   - ipad
   - apple-pencil
 ---
