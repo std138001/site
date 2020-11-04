@@ -13,4 +13,5 @@ events:
   - iphone-jobs
   - ipad
   - apple-pencil
+  - apple-smartwatch
 ---
