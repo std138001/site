@@ -14,8 +14,6 @@ tags:
   - Education
   - App
 gallery:
-  - image_url: /images/edu-app-case-study.png
-    caption: "Παραδείγματα εκπαιδευτικών εφαρμογών σε συσκευές Apple."
 
 ---
 
