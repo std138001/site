@@ -16,6 +16,10 @@ tags:
 gallery:
   - image_url: /images/edu-app-case-study.png
     caption: "Παραδείγματα εκπαιδευτικών εφαρμογών σε συσκευές Apple."
+  - image_url: /images/iphone_jobs.jpg
+    caption: "Το κινητό τηλέφωνο Apple Iphone."
+  - image_url: /images/ipad.jpg
+    caption: "To tablet Apple iPad."
 
 ---
 
