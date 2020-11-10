@@ -21,7 +21,6 @@ gallery:
     caption: "Το κινητό τηλέφωνο Apple Iphone."
   - image_url: /images/ipad-first-gen.png
     caption: "To tablet Apple iPad."
-
 ---
 
 {% include_relative cs-edu-app.md %}
