@@ -25,4 +25,4 @@ gallery:
 
 {% include_relative cs-edu-app.md %}
 
-{% include gallery %}
+{% include images %}
