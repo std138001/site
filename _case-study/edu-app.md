@@ -13,8 +13,14 @@ tags:
   - ios
   - Education
   - App
-gallery:
 
+gallery:
+  - image_url: /images/edu-app-case-study.png
+    caption: "Παραδείγματα εκπαιδευτικών εφαρμογών σε συσκευές Apple."
+  - image_url: /images/iphone-jobs.jpg
+    caption: "Το κινητό τηλέφωνο Apple Iphone."
+  - image_url: /images/ipad-first-gen.png
+    caption: "To tablet Apple iPad."
 ---
 
 {% include_relative cs-edu-app.md %}
